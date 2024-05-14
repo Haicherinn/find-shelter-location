@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">shelterocation</string>
+    <string name="opening"><b>Bingung mau cari tempat penampungan hewan?\n\n</b>Temukan disini!
+</string>
+    <string name="Shelterocation">Shelter Finder</string>
+    <string name="nameShelter">Tempat Penampungan</string>
+    <string name="cityShelter">Jakarta Timur</string>
+    <string name="openHoursShelter">09.00</string>
+    <string name="closeHoursShelter">17.00</string>
+    <string name="buka">Buka</string>
+    <string name="tutup">Tutup</string>
+    <string name="addressShelter">Jl. Raya Cilangkap No.140, Cilangkap, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13870</string>
+    <string name="phoneShelter">081285959633</string>
+    <string name="jamBuka">Jam Buka</string>
+    <string name="jamTutup">Jam Tutup</string>
+    <string name="buka_di_google_maps">Maps</string>
+    <string name="paynow">Pay Now</string>
+    <string name="share">Share</string>
+    <string name="chat">Hubungi Kami</string>
+    <string name="donation">Donasi</string>
+    <string name="title_activity_maps">Maps</string>
+
+
+</resources>
